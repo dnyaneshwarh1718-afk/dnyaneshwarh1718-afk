@@ -1,24 +1,19 @@
-## 👋 Hi, Dnyaneshwar Hiwale
-I’m a **Data Science & Analytics professional** focused on building **end-to-end, business-ready solutions** using **SQL, Power BI, and Python**. I work on transforming raw data into **actionable insights, dashboards, and predictive models**, with a strong emphasis on **data quality, storytelling, and measurable outcomes**.
+## Hi, I'm Dnyaneshwar Hiwale 👋
 
-🚀 Currently working on **real-world projects** across **EDA, analytics reporting, and machine learning pipelines**
-🤝 Open to **collaboration, freelance work, and full-time opportunities** in **Data Analytics / Data Science**
+I build **business-ready analytics and machine learning solutions** using **SQL, Power BI, and Python**.  
+My focus is on **data validation, modeling, dashboarding, and end-to-end ML workflows** with clear documentation and outcomes.
 
-🎯 Data Science Learner | Power BI | SQL | Python  
-📊 Interested in Data Analytics, Machine Learning & Business Insights  
-🚀 Currently building real-world projects + portfolio  
-🤝 Open to opportunities & collaboration  
----
+🔍 Interests: Analytics Engineering | BI Reporting | ML Model Development  
+🤝 Open to: Data Analyst / BI Analyst / Data Scientist roles + collaboration
 
-### 🔗 Connect with me
-- 💼 LinkedIn: www.linkedin.com/in/dnyaneshwar-hiwale-27a5a2192
-- 📧 Email: Dnyaneshwarh1718@gmail.com   
+### 🔗 Connect
+- LinkedIn: https://www.linkedin.com/in/dnyaneshwar-hiwale-27a5a2192
+- Email: dnyaneshwarh1718@gmail.com
 
----
+### 🧰 Tech Stack
+**SQL:** MySQL, CTEs, Window Functions, Joins, Data Cleaning  
+**Power BI:** DAX, Data Modeling, KPI Dashboards, Drillthrough  
+**Python:** Pandas, NumPy, Matplotlib, EDA, Feature Engineering  
+**ML:** Classification, Regression, Model Evaluation
 
-### 🧠 Technical Skills
-
-**Programming & Analysis:** Python (Pandas, NumPy), EDA, Feature Engineering
-**SQL & Databases:** MySQL, Joins, CTEs, Window Functions, Data Validation
-**BI & Reporting:** Power BI, DAX, Data Modeling, KPI Dashboards, Reporting Automation
-**Machine Learning:** Classification, Regression, Model Evaluation, Basic Deployment Concepts
+⭐ I prefer projects that reflect **real reporting + real decision-making**, not just notebooks.
