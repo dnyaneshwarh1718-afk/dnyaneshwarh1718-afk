@@ -9,7 +9,7 @@ My focus is on **data validation, modeling, dashboarding, and end-to-end ML work
 ### 🔗 Connect
 - LinkedIn: https://www.linkedin.com/in/dnyaneshwar-hiwale-27a5a2192
 - Email: dnyaneshwarh1718@gmail.com
-- Portfolio: hiwale-dnyaneshwar-portfolio.netlify.app
+- Portfolio: https://hiwale-dnyaneshwar-portfolio.netlify.app/
 
 ### 🧰 Tech Stack
 **SQL:** MySQL, CTEs, Window Functions, Joins, Data Cleaning  
