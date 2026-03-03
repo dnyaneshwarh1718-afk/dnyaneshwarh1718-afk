@@ -32,9 +32,9 @@ class Dnyaneshwar:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-dnyaneshwarh1718--afk-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/dnyaneshwarh1718-afk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-f59e0b?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:dnyaneshwar@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](www.linkedin.com/in/dnyaneshwar-hiwale-27a5a2192)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-f59e0b?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](dnyaneshwarhiwale-portfolio.netlify.app)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-7c3aed?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:Dnyaneshwarh1718@gmail.com)
 
 </div>
 
