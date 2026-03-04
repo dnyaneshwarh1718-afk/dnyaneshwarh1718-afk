@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:7c3aed&height=200&section=header&text=Dnyaneshwar%20Hogade&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=AI%20%7C%20Full-Stack%20%7C%20Data%20Science&descAlignY=55&descColor=00ff88&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:7c3aed&height=200&section=header&text=Dnyaneshwar%20Hiwale&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=AI%20%7C%20Full-Stack%20%7C%20Data%20Science&descAlignY=55&descColor=00ff88&animation=fadeIn" width="100%"/>
 
 <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-00ff88?style=for-the-badge&labelColor=0d1117&color=00ff88"/>
 <img src="https://komarev.com/ghpvc/?username=dnyaneshwarh1718-afk&style=for-the-badge&color=7c3aed&labelColor=0d1117&label=PROFILE+VIEWS"/>
