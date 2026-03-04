@@ -13,7 +13,7 @@
 
 ```python
 class Dnyaneshwar:
-    name        = "Dnyaneshwar Hogade"
+    name        = "Dnyaneshwar Hiwale"
     username    = "dnyaneshwarh1718-afk"
     location    = "India 🇮🇳"
 
